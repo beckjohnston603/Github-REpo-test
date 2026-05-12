@@ -1,13 +1,9 @@
 # Simple Calculator
 # Calculator - Updated from GitHub Web Interface
-<<<<<<< HEAD
-#mergeeeeeeeeeeeeee
-=======
 #merge one
 
->>>>>>> c4be0f58fa65bd4c849f8bf96665336940bba4c0
 def add(a, b):
-    return a + b
+    return a + bawdw
 
 def subtract(a, b):
     return a - b
