@@ -1,5 +1,6 @@
 # Simple Calculator
 # Calculator - Updated from GitHub Web Interface
+#merge one
 
 def add(a, b):
     return a + b
